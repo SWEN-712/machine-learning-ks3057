@@ -1,0 +1,259 @@
+Just a few but very important tips and principals when coding an #android app for #accessibility,… 
+RT @MarcoInEnglish: #Firefox 73 was just released, and it has two awesome accessibility features, which anyone will benefit from who can se…
+Can you please ask him / her to fix the #accessibility issues in the iOS app? In particular, it is currently imposs… 
+RT @Sommer: Large. Text. Matters. Sometimes for many years. Sometimes just for a day here and there. #accessibility #ios
+RT @TheFrontConf: 📢 What if we could predict #a11y issues before they occur?
+
+@karlgroves is going to show us how large-scale data gatherin…
+RT @a11yjobs: NBCUniversal is hiring an Accessibility Director in Los Angeles  #a11y
+RT @webaxe: Great job opportunity in Australia. #dev #jobs #a11y 
+I feel that @SAPConcur is in business of torturing #accessibility users. Can’t book / flights on either Android or… 
+Hey @getolympus and @olympusamericas, with your great #accessibility record, it is disheartening to see that Olympu… 
+RT @SKERI_YD: What do you need to make #AudioDescription with #YouDescribe? A microphone, a computer, and reliable internet. The accessibil…
+RT @dennisl: This is terrible what happened. #CustomerService #travel #fail cc @Allegiant 
+RT @nattarnoff: 6 days left! This survey closes on December 31st. I'm looking for data on the  #a11y of making electronic music. Please hel…
+RT @blindcollector: News roundup about accessible currency, 2019.  #accessiblecurrency
+Google Design, best of 2019 and more...  #ux #technology #google 
+RT @LFLegal: She would never use a Talking ATM but #blind activist Cathy Skivers played a big role in making sure banks offered them. She d…
+Hello @united! Have you considered making your #Android and #iOS apps to work well with TalkBack and VoiceOver scre… 
+Great tech and #accessibility come together in this cool feature from Google! Well done team! #a11y #fb 
+RT @dennisl: So depressing. Same old problems—color contrast, alt text, input labels, etc. #a11y #webdev #webdesign #fail 
+RT @EasyChirp: Wanted: Head of Accessibility at Atlassian in San Francisco  #a11y #jobs #sf
+RT @accessaces: Wired lets you know my perspective on #a11y   
+@darrell @airaio Great to hear everyone is safe. What a great use of #aira
+RT @webaxe: Neat! ARIA Reference skill for Alexa:  #webdev #aria #tips #alexa
+What magic potion would make @Flipboard team care about making their #ios and #android apps accessible for screen r… 
+Help me vote up this feature request for Reaper  #a11y
+RT @dennisl: Flashback! Accessibility Showcase at PayPal:  PS: working with @vick08 was terrific! #a11y
+RT @ted_drake: Can you detect #dyslexia in pre-reading age children? Dytective is a game that can do this. @luzrello  and her team develop…
+RT @dennisl: Wanted at University of Michigan (my alma mater): Senior User Interface Design Engineer (with #accessibility skills) 
+RT @kirankaja12: A great opportunity to help transform #accessibility at Google. We are looking to hire a Director for Accessibility 
+RT @ted_drake: There’s a lot of exciting new technology for #a11y. I’m going to spotlight new innovations and under-appreciated #a11yTech…
+Here's a great Wikipedia article about one of the founders of ETrade. Might be a surprise for some! #a11y 
+RT @DesignedByBlind: Sounds worth a try. #a11y 
+What is Prelaunch report in Google Play Console and how it can help you to ensure the #accessibility of your… 
+RT @LeonieWatson: With #LyreBird my 20 year dream to have a screen reader that sounds good might be a step closer  A…
+From Discover on Google  #a11y/
+Really loving the ability of toggling "accessibility shortcut" with CTRL+ALT+Z in Android Q. Helps to toggle TalkBack quickly! #a11y
+RT @Jennison: Worthwhile read: How to identify a Toxic #Accessibility Culture, and what you can do about it  #tech #…
+RT @joedevon: While it's really painful to read the BS people say sometimes, I strongly recommend checking out the #DisabledCompliments has…
+RT @mozhacks: In our #a11y-miniseries @hdv explored the significance of accessibility trees—a key browser component in ensuring that conten…
+@TwitterSupport @AppleVis Please please do not forget about the fabulous #a11y features that were available in the… 
+RT @marcysutton: This is great news for #a11y! 
+RT @pauljadam: #react #a11y Tip DON'T USE "onTouchTap" events it's not keyboard operable! Use "onClick" for your &lt;button&gt;s! 
+RT @kate_sonka: .@vick08 tells students that there is really no end to #a11y work. There's actually more to be done than 10 years ago and t…
+RT @knitcodemonkey: While looking up #a11y color pallet generators, I found this amazing article on generating your own color pallet from a…
+RT @joedevon: Thanks for the shout out to #GAAD @TechCrunch 
+
+Lovely Play Games badge in The Play Store in celebration of #GAAD2019 
+RT @SFdirewolf: Featuring interviews with @Jennison @accessaces @lifeinbraille and many others 👇👇👇
+
+#GAAD #a11y 
+RT @dennisl: I'm scheduled for 3:45pm 😀 #a11yTOCamp #a11y #toronto #events #webdev 
+Another great talk from Google’s #IO19 conference on developing accessible #Android apps on Chrome OS (and beyond,… 
+Fabulous talk from Google #IO19 about screen layouts and accessibility:  #a11y #fb
+RT @Android: #Android is the first OS to provide captions for almost every app on your 📱. Learn how Live Caption opens up a new 🌏 of experi…
+RT @georgezamfir: #a11y real talk: accessibility is an experience (e.g. keyboard navigation, screen reader, etc.) that needs to be spec’d,…
+RT @blindcollector: New Australian $50 accessible for the blind, article and video  #accessiblecurrency
+RT @googleaccess: Lookout is now available for flagship Samsung and LG devices! Give it a try today at  #io19 #a11y…
+RT @sagar_barbhaya: @vick08 saw you featuring in video in #GoogleIO2019 #a11y 
+I wonder how much battery life does a screen reader / TTS combo steal from our devices that run #a11y tools? I am w… 
+Congrats to the winner in the #a11y category @LetsEnvision! 
+RT @ted_drake: This article on using android:labelFor to make your #android app accessible is a great resource to bookmark. 
+I am utterly curious when @reddit decides to make their website and #android accessible with screen readers? Don’t… 
+RT @MicrosoftHelps: Did you know there's an Accessibility checker in Word?
+There is! 
+
+Our #MicrosoftSupportVideo shows you how to use it s…
+RT @EasyChirp: Categories include "Best Accessibility Experience". #a11y #android #apps #awards 
+RT @dennisl: .@DequeSystems Introduces axe for Android Free Mobile App  #android #mobile #dev #a11y #tools
+RT @AppleVis: #AppleVisPodcast #audio Quick Tip: Using the Text Selection Rotor to Select Text on iOS 
+RT @darrell: #InaccessibilityMeans losing out on excellent job opportunities because the employer requires the use of software that is inac…
+This I like:  #a11y #android
+RT @googleaccess: Interested in sharing your feedback on Google products? You can participate in user research studies! #CSUNATC19 Find out…
+RT @blindbargains: #CSUNATC19: Seeing AI 3.0 Lets you Explore Photos by Touch, Adds iPad Support 
+Will be at #csunatc19 starting tomorrow. As the famous movie title goes: “catch me if you can!” See you all soon!
+O, that’s cool! Universal Copy for Android now has OCR add-on:  #a11y
+RT @Jennison: #a11y 
+Really well done and lots of great snippets! Highly recommend watching! #a11y 
+#InspiredBySound - #XLNAudio #Addictive Drums 2 - Soloing in 7/4 - Finge...  via @YouTube
+RT @CEEKTechnology: Apex Legends’ accessibility settings are shockingly good  #Gaming #accessibility
+Sounds like today's version of the #deletefacebook campaign! -)  #fb
+RT @ted_drake: #a11y podcasts I listen to regularly: 
+AT Banter: 
+Blind Bargains: 
+Disability…
+RT @w4a_conference: Submit your web accessibility research before January 27 to #w4a2019: the #web for all conference co-located with @TheW…
+RT @webaxe: PayPal's skip-to widget enhanced to work with SPAs  #skipto #webdev #a11y
+RT @AccessAna: Want #Talkback on your wrist? Android Central: Which Wear OS devices have a speaker?.
+
+
+via @GoogleNe…
+Finished listening to The Lady in the Tower: The Fall of Anne Boleyn by Alison Weir. Try #Audible and get it free: 
+RT @FreakyFwoof: #InspiredBySound - #MusoCast 02 - Justin Kauflin and Andre Louis talk Favourite Virtual Rhodes:  vi…
+RT @dennisl: What Can Be Learned From The Gutenberg Accessibility Situation?  #wordpress #wp #gutenberg #a11y
+RT @hadleyinstitute: If you weren't able to join us for this month's #TechItOut, the recording is now up on YouTube. This month's focus was…
+RT @Jennison: This #webdev #SoftwareEngineer 
+RT @MSFTEnable: Watch this #Accessibility at a Glance video where @gbarkerZ describes how to support a keyboard-only experience in apps and…
+Finished listening to The Lady in Gold: The Extraordinary Tale of Gustav Kl... by .... Try #Audible and get it free: 
+RT @LeonieWatson: The Accessibility Object Model #AOM (mentioned in the Q&amp;A after my #A11yClub talk) is being developed on Github. File iss…
+RT @jakobrosin: Lets continue with #Year4Audio 37. This bird can make both digital and mechanical sounds.  #FieldRec…
+Finished listening to Small Fry (Unabridged) by Lisa Brennan-Jobs. Try #Audible and get it free: 
+RT @stevefaulkner: Interesting article on limitations of current web #a11y APIs by @surkovalexander a Mozilla accessibility engineer 
+Finished reading The Little Prince   Try #Audible and get it free: 
+Finished listening to Goodbye Europe: Writers and Artists Say Farewell (Una... by .... Try #Audible and get it free: 
+Thanks @jcsteh  for all the work you put into making Reaper accessible. The #a11y and the power of this software is simply amazing!
+RT @LeonieWatson: Inclusive Design 24 #id24 is on 11th October... A #free 24 hour #online conference  With #id24u ev…
+Listened to 100% of House ... by .... Try #Audible and get it free: 
+Finished listening to The Blind Assassin (Unabridged) by Margaret Atwood. Try #Audible and get it free: 
+Thanks @amtlab and @chikim for everything you do for improving accessibility of music software and resources! Your work is invaluable… #a11y
+RT @FreakyFwoof: #Breaking: VOCR - VoiceOver OCR for Mac users created by Chi Kim. Please share everywhere: 
+This is cutesy cool, in a strange #a11y cuteness kind of way! As pronounced by a screen reader, “This content is sp… 
+RT @FreakyFwoof: #InspiredBySound - Artist Spotlight 02 - Justin Kauflin:  via @YouTube
+Finished listening to The Agony and the Ecstasy: A Biographical Novel of Mi... by .... Try #Audible and get it free: 
+Finished listening to The Agony and the Ecstasy: A Biographical Novel of Mi... by .... Try #Audible and get it free: 
+RT @MosenConsulting: Interested in giving @airaIO a try at #ACB18 or #NFB18? We've updated our blog post with a lot more info on the servic…
+Finished listening to The Human Age: The World Shaped by Us (Unabridged) by Diane .... Try #Audible and get it free: 
+RT @ryandour: Begin testing your app using VoiceOver today. I and the rest of the blindness community want to use your apps! #a11y 
+RT @kirankaja12: We are still looking for software engineers with web #accessibility experience to work on Google Search. This is a great o…
+OpenGL, accessibility talkback, can they work together?  #a11y #fb #GoogleIO
+RT @googleaccess: Happy #GAAD! @eveandersson, head of @googleaccess, shares three ways we're building for people with disabilities. Read mo…
+RT @JonAvilaA11y: Today is Global accessibility awareness day #GAAD.   Take a moment to consider successes thus far, educate others, and ta…
+On this #GAAD2018 day, let’s encourage companies like @Fishman_Music, @ikmultimedia and others to follow the lead b… 
+RT @brycej: It is wonderful to be able to tell the world, on #GAAD2018, about something I have been working on for almost 3 years. The Xbox…
+RT @JonathanMosen: Very impressed with the new Google News app for iOS. A couple of minor #accessibility wrinkles but nothing huge. Great t…
+RT @googleaccess: Stop by the #accessibility sandbox (F) for a lighting talk on innovative ways to get early feedback from users with acces…
+RT @googleaccess: Stop by the #accessibility sandbox for a lighting talk on innovative ways to get early feedback from users with accessibi…
+RT @dylanbarrell: .@vick08 opening up the Android #accessibility update #googleio18 
+RT @RainbowPoetess: Honored to have been a part of the #GooglePlayAwards event, with @vick08 Go @BeMyEyes #a11y 
+I’m almost afraid to say it out loud, but I’m really amazed that accessible #a11y code that @todd wrote a few years… 
+RT @kirankaja12: We are looking for software engineers with web #accessibility experience to work on Google Search frontend and platforms.…
+RT @jennylayfluffy: NEW Windows 10 #accessibility updates including:
+- Grammar Tools
+- Dictation
+- Focus Assist
+- Eye Control improvements…
+RT @ianhamilton_: "New Accessibility Info For All Future Reviews" 
+
+
+#gamedev #accessibility #deaf #gamersunite
+Congratulations to all #a11y  winners 
+#InspiredBySound - Komplete 2.0 is out with FX directly in the plugin. -...  via @YouTube
+RT @LeonieWatson: This guide to creating #accessible developer tools, by @Noopkat, is excellent. The state of dev tool accessibility is fra…
+RT @anatinge: The beauty of the voice interface and the head display! ARLab at Intellectsoft moved to the kitchen :) #Intellectsoft #ARlab…
+RT @yourdolphin: EasyReader 2.0 for #ioS and #android is available now. Enjoy a good book with your choice of #magnification, colours, font…
+Come learn about audio books in Google play, seaport tower, G. #CSUNATC18
+RT @googleaccess: Take a look at recent improvements to Google Docs - designed with everyone in mind —&gt;  #a11y #CSUN…
+RT @googleaccess: New features available in Accessibility Scanner, a tool that suggests #a11y improvements for Android apps without requiri…
+Google starts a push for cross-platform app development with Flutter SDK
+
+
+For #a11y questions, please check the FAQ.
+RT @ewaccess: Coding by voice is really hard. Here's a demo of what's possible.  #a11y #speechrec
+Hey @twitterrific, any word on when #a11y issues with VoiceOver on Mac OS will be addressed? You are our only hope! :)
+RT @AccessAna: Love #AndroidWear 2.8. Complications now work with #TalkBack. #a11y  is groovy.
+I so wish the #accessibility of @flipboard on #android was as good as their news feeding algorithms. Really love th… 
+Does this artwork look like me? Try with your own #selfie at  #GoogleArts 
+Hey @lyft, 2 ##android #a11y requests, pls: make the driver ETA work with Talkback as well as the menu icons on the… 
+RT @mpaciello: You can never have enough #accessibility tutorials. He's the #Chrome series. #a11y #accessibility #ux #edtech #webdev 
+For all of the Logic’s #a11y shortcomings, the ESS24 plugin has a rather wonderful support for VoiceOver. Thx LG devs!
+. @fbaccess a message from another user re Whatsap #a11y. 
+RT @MarcoInEnglish: Those of you #NVDA users who use the #Firefox 58 beta, you should have received a substantial performance boost in the…
+Really love gear from @Fishman_Music but lately very cautious buying their stuff bc of bad #a11y  record for blind musicians.
+#Android devs, here’s what happens to Talkback when you use contentDescription for hints, e.g. “Take a picture, dou… 
+I read text description for a movie and really want to watch it. Then, after watching a trailer, the wish usually disappears. #a11y
+Lets hope some of that money will go towards improving #a11y for blind musicians!
+Thx @Jennison and @LinkedIn for organizing &amp; hosting amazing @a11ycampbay  Had fun presenting there! #a11y
+Just upgraded to Windows 10 and have to say things are looking quite good re #a11y
+RT @Jennison: Looking for an automated web accessibility #testing tool? #webdev #softwareengineer #frontend #coding #a11y #agile 
+Does NE1 happen to know if recovery console in Windows 10 can be used with Narrator? #a11y
+RT @dequesystems: Thanks @RobDodson for a great #a11ycast highlighting how @dequesystems' aXe Coconut can now test with Shadow DOM!!! 🙌 htt…
+Great story about one of the @BeMyEyes user  #a11y
+@Twitterrific Got it. Thx for explanation! Looking 4ward to installing ur app! I’m sure you’ve done good #a11y work… 
+Got another email from Wikipedia asking for donations. Well, when I sent emails asking to remove visual CAPTCHA, nothing was done. So? #a11y
+Curious how blind people deal with identifying multiple credit cards in their pockets / wallets? #a11y
+RT @Jennison: For anyone asking, how do I start a web accessibility effort at work? This post is a must read. #webdev #frontend #softwareen…
+If the double-tap gesture in your app does not behave in Android O, please make the developer aware of  #a11yourdays
+RT @kirankaja12: Your Google Assistant is now on Android TV and works nicely with #accessibility services too 
+We’ve talked about this off-line for a while but thanks @MarcoInEnglish for writing this up!  #a11y
+RT @JonAvilaA11y: If you use a screen reader -- please take the WebAIM screen reader survey #a11y!  If you don't -- sent this to someone wh…
+RT @ppatel: A wonderful cultural transformation story. Hitting Refresh on #Accessibility at Microsoft by @jennylayfluffy. 
+Fill out the latest @webaim accessibility survey. Let our voices and references be heard!  screenreadersurvey7/ #a11y
+RT @gonz_blinko: New blog article celebrating @jcsteh is up at:  #a11y #nvdasr
+RT @googleaccess: Help us make @googlemaps more accessible! Become a #localguides and help answer 3 #a11y questions/day for 2 weeks → 
+Rebirth of Android One phone for users in India w/ pure Android UX, #a11y and security 
+RT @ted_drake: Google' "Implementing Accessibility" course for #Android. 20 minute read to get you started. #a11y  
+RT @Google: Stay informed about #Harvey with SOS Alerts in Search and learn more about resources and support from Google → 
+RT @lordjeff: Do you use Talkback? Please answer a quick 5 qquestion survey On Audio Experience and Talkback  #a11y
+RT @AccessAna: Experience the #SolarEclipse with senses other than sight, using this #Android app: 
+RT @AccessAna: Great developer #a11y resources from Google I/O 2017—"What Designers Can Learn from Google About Accessibility”: 
+RT @dennisl: #inclusive #design #a11y 
+RT @mpaciello: Putting web #Accessibility where it should be -- on the cover!! Woot!! Double Woot!! #a11y #ux #webdev #edtech 
+Something has to be done w/ breadcrumbs on web for screen reader #a11y. They introduce lots of tab stops, repetitive links, etc. Thoughts?
+RT @dennisl: Working on custom select dropdowns? Read this first:  #webdev #a11y #aria #forms
+@jcsteh 140 chars isn’t enough to thank u for all you have done for #a11y, screen reader industry, developing count… 
+RT @ppatel: Accessibility Quality Engineer position at Apple. #a11y 
+With Google Assistant life’s cool! Open any app/page, Long-press HOME, then pick “What’s on my screen” &amp; you have your #a11y
+Finished listening to Secondhand Time: The Last of the Soviets (Unabridged) by Sve.... Try #Audible and get it free: 
+Accessibility features in Android O, for developers   #a11y
+RT @paciellogroup: .@Firefox 56 to merge #accessibility settings into general options (instead of own section) 
+All my @fishman_music #a11y is due to one customer support technician bc the software is bad. #fail
+RT @pauljadam: How you know you've done #a11y wrong... you have a special accessibility button that the user must switch from default to sc…
+OK weird. I’m on Vanguard website with VOiceOver/Safari. Submitted feedback and then hear “press alt+F4 to close this window”. #a11y fail
+Bar code scanning well done, using the “warmer, colder, warmer” approach. #UX #SeeingAI #a11y
+Methinks Seeing AI job well done with face recognition UX. Simple, quick and works! #a11y
+RT @GoogleHomeNews: How to use IFTTT with Google Home - Tech Advisor  #GoogleHome 
+RT @googleaccess: "You can shop with @googleexpress using your Google Home" → "Ok, Google, purchase water" #NFB17 Google Home Talk
+RT @googleaccess: "Select to Speak, a new service that vocalizes user selected content on the screen; invoked via #a11y button or a floatin…
+RT @googleaccess: 20+ @youtube tutorial videos on Chrome &amp; ChromeOS #a11y channel →   #NFB17 Chrome OS talk
+A plea to #android developers: test your apps with external keyboards. This will ensure accessibility for touch-screen users as well. #a11y
+RT @googleaccess: On our way to #NFB17! Be sure to attend our talks in Wekiwa 3  &amp; stop by our booth to chat w/a Goo…
+. @Wikipedia pls stop discriminating against blind contributors w/ur CAPTCHAs. This page  doesn’t help. #a11y
+RT @knowbility: TPG’s Léonie Watson on screen readers, magical UX &amp; the
+#accessibility police  @paciellogroup 
+ @Leo…
+RT @googleaccess: Visit the @googleaccess team at our booth &amp; attend our talks next week at #NFB17 in Wekiwa 3! Full schedule → 
+RT @dennisl: How to Earn an “A” for Android Accessibility  HT @knowbility #mobile #dev #android #a11y
+RT @googleaccess: “Chromebooks that support styluses have a new lens magnification feature available through the stylus menu” #ACB17 #a11y
+RT @googleaccess: 20+ @youtube tutorial videos on the Chrome and ChromeOS accessibility channel →  #ACB17 #a11y
+RT @dennisl: SVG Accessibility test page on GitHub (updated):  #svg #a11y #webdev #testing
+RT @googleaccess: Check out the full schedule of the @googleaccess team talks for #ACB17  #a11y
+RT @JimFruchterman: We've been getting news that accessibility guru Ron Stewart just passed away this week from friends in #a11y.  He made…
+RT @Shilpi_Kapoor: Access to Books by using Google Playbooks app also supports #epub by @googleaccess @kirankaja12 #BT17 #accessibility mus…
+RT @googleaccess: Check out #PlayMovies v. 2.11 → dark theme and custom actions are just some of the #a11y improvements → 
+Finished listening to The Handmaid's Tale: Special Edition (Unabridged) by Margare.... Try #Audible and get it free: 
+Finished listening to The Radium Girls: The Dark Story of America’s Shining... by .... Try #Audible and get it free: 
+RT @ted_drake: Learn about Android #a11y at the ACB conference via Google’s  @vick08. 10-11 a.m. July 1. 
+
+While listening to great #ID24 talks, you can do a quick #a11y test on your #android  app 
+Accessibility Scanner
+RT @LFLegal: Happening now! 24 hours free online accessibility talks. Schedule:  Thx @paciellogroup #a11y Want law?…
+RT @googleaccess: Switch Access is an alternative to using a touch screen for users w/limited dexterity  #a11y #Swi…
+Can we hope that Mac OS X 10.13 will finally give me back VoiceOver screen reader that got me excited about Macs in the first place? #a11y
+Hmmm, @aipoly website helpfully says “contact us” with a screenshot,  Very helpful! #a11y
+Highlight of #IO17 is meeting all the developers, designers &amp; researchers interested in #accessibility. Totally worth getting tired for! :)
+RT @ted_drake: This was the best talk of the day: 'Pragmatic #A11y. A How-To Guide for Teams.' at #io17! 
+RT @pauljadam: What's New in Android Accessibility (Google I/O '17) - YouTube #A11y #androiddev #io17 
+You could say this was our contribution to #GAAD #IO17 
+RT @ted_drake: Liftware level keeps spoon horizontal, regardless of hand/arm movement and position. #cerebralPalsy #io17 #GAAD2017  
+RT @karlgroves: Today is Global Accessibility Awareness Day. Please follow #GAAD and #GAAD2017. A lot of great things are happening all ove…
+RT @ted_drake: New tool for configuring color schemes and making sure they have adequate contrast. #a11y via @googleaccess  
+RT @appleinsider: Apple video shorts highlight Global #Accessibility Awareness Day May 18 #GAAD #GAAD2017  
+If you want to follow the events at Google IO tomorrow, tune in at  #a11y
+Hey @fbaccess, where can I #a11y feedback for Messenger products? The  only accepts reports about Facebook.
+Wow, @SoundCloud app for #android does really need some serious accessibility work. I hope someone there is reading / listening! #a11y
+Accessibility Glossary of Terms from   #a11y
+Finished listening to The Price of Blood by Patricia Bracewell. Try #Audible and get it free: 
+Finished listening to The Name of the Rose (Unabridged) by Umberto Eco. Try #Audible and get it free: 
+Still waiting for that Sonar Alpha for Mac, not expecting much on the #a11y front, but still curious…
+The number of buttons w/o #a11y labels in @flipboard app for Android is simply astounding! Can be easily fixed, 
+So happy #Ukrainian is now supported on #android!  
+RT @ted_drake: "70% of disabilities are invisible to the eye." A window sticker on Microsoft campus. #w4a2017 @MSFTEnable 
+Eyesfree Reader: Really fabulous app for android!  #a11y
+Hey @a11yteam can you please make quoted tweets read w/ talkback on android? Thx! #a11y
+. @KLM Recently flew w/you. All was good but an onscreen “call” button is just a bit too much for a blind person to handle. #a11y
+I have one accessibility-related question with regard to the new design of the Wells Fargo website. Why did they do this to us? #a11y
+RT @pauljadam: Accessibility Intro for Android Engineers - Bay Area #a11y &amp; Inclusive Design (San Francisco, CA) | Meetup 
+Hey @lyft any hope for an Android app being compatible with Talkback screen reader? This code lab may help:  #a11y
+1st Jack Daniels of #csun17 #fb
+RT @googleaccess: Visit the @googleaccess team tomorrow at #CSUNATC17! Google Suite, Seaport G &amp; Booth 713. Follow us for updates throughou…
