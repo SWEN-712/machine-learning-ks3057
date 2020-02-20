@@ -35,9 +35,22 @@ def get_tweets():
               'inclusion'}
     ids = set()
 
-    tweet_count = 0
+    count = 0
+    for status in Cursor(auth_api.user_timeline, id='jennylayfluffy').items():
+        count += 1
+        if status.entities is not None and "hashtags" in status.entities:
+            for entity in status.entities["hashtags"]:
+                if entity is not None and entity["text"] is not None and \
+                        entity["text"] in my_set:
+                    if status.id not in ids:
+                        txt = re.sub(r'http\S+', '',
+                                     status.text)
+                        accbl_twts.append(txt)
+                        ids.add(status.id)
+
+    count = 0
     for status in Cursor(auth_api.user_timeline, id='MollyBOfficial').items():
-        tweet_count += 1
+        count += 1
         if hasattr(status, "entities"):
             entities = status.entities
             if "hashtags" in entities:
@@ -119,13 +132,6 @@ def get_sentiment(read_tweets_list):
     df.to_csv(r'molly_positive.csv', index=None, header=True)
 
 
-def random_color_func(word=None, font_size=None, position=None,  orientation=None, font_path=None, random_state=None):
-    h = int(360.0 * 21.0 / 255.0)
-    s = int(100.0 * 255.0 / 255.0)
-    l = int(100.0 * float(random_state.randint(60, 120)) / 255.0)
-    return "hsl({}, {}%, {}%)".format(h, s, l)
-
-
 def generate_wordcloud():
     f = open("molly_tweets.txt", "r")
     comment_words = ' '
@@ -147,8 +153,7 @@ def generate_wordcloud():
     wordcloud = WordCloud(width=1600, height=800,
                           background_color='white',
                           stopwords=stopwords,
-                          min_font_size=10,
-                          color_func=random_color_func).generate(comment_words)
+                          min_font_size=10).generate(comment_words)
 
     plt.figure(figsize=(20,10), facecolor=None)
     plt.imshow(wordcloud)

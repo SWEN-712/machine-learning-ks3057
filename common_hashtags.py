@@ -1,3 +1,11 @@
+def random_color_func(word=None, font_size=None, position=None,
+                      orientation=None, font_path=None, random_state=None):
+    h = int(360.0 * 21.0 / 255.0)
+    s = int(100.0 * 255.0 / 255.0)
+    l = int(100.0 * float(random_state.randint(60, 120)) / 255.0)
+    return "hsl({}, {}%, {}%)".format(h, s, l)
+
+
 jenny = {'hearingadvocacy', 'USBLN16', 'WorldBrailleDay',
          'RepresentationMatters', 'Oscars2017', 'design', 'MSEnvision',
          'endals', 'MSInspire', 'WEDay',
@@ -118,4 +126,59 @@ jenny = {'hearingadvocacy', 'USBLN16', 'WorldBrailleDay',
          'disabilityinclusion',
          }
 
-molly_full = {}
+victor = {'a11yourdays', 'Accessibility', 'a11y', 'GAAD', 'a11ycast',
+          'accessiblecurrency', 'cerebralPalsy', 'InspiredBySound', 'ARlab',
+          'speechrec', 'webdev', 'accessibility', 'a11yTOCamp',
+          'DisabledCompliments', 'w4a2019', 'GAAD2018', 'A11yClub',
+          'Firefox', 'softwareengineer', 'NVDA', 'google', 'A11y',
+          'android', 'webdesign', 'w4a2017', 'Chrome', 'NFB17', 'Talkback',
+          'Android', 'csunatc19', 'svg', 'GAAD2017', 'aira', 'csun17',
+          'NFB18', 'GAAD2019', 'Harvey', 'inclusive', 'blind', 'LyreBird',
+          'CSUNATC17', 'AudioDescription', 'Audible', 'a11yTech',
+          'Year4Audio', 'CSUNATC19', 'SoftwareEngineer', 'fail', 'ACB18',
+          'XLNAudio', 'Breaking', 'GoogleArts', 'TechItOut', 'web', 'id24u',
+          'forms', 'InaccessibilityMeans', 'io19', 'deletefacebook', 'ux',
+          'GoogleHome', 'Intellectsoft', 'edtech', 'accessible', 'deaf',
+          'TalkBack', 'wordpress', 'androiddev', 'apps', 'CSUNATC18', 'dev',
+          'MicrosoftSupportVideo', 'UX', 'AppleVisPodcast', 'dyslexia'}
+
+molly = {'disability', 'blindpeopleproblems', 'blindsnaps',
+         'disabilityonyoutube', 'disabilityofYT', 'blindgirlbeauty',
+         'worldsightday', 'Beyond2020Vision', 'blindgirlpower',
+         'thingsblindgirlssay', 'disabilitiesonYT',
+         'disabilitiesonyoutube', 'blindgirlstorytime',
+         'accessibilitymatters', 'blindgirl', 'disabilityonYT',
+         'GuideDogs', 'blindgirlproblems', 'blindgirlmoments', 'Blind',
+         'accessibility', 'GuideDog', 'blindgirlwin', 'blind',
+         'servicedog', 'blindgirlWIN', 'blindgirlinsta', 'deaf', 'Braille',
+         'inclusion'}
+
+print("Common between all three:")
+print(jenny.intersection(victor.intersection(molly)))
+print()
+print("Common between jenny and victor:")
+print(jenny.intersection(victor))
+print()
+print("Common between jenny and molly:")
+print(jenny.intersection(molly))
+print()
+print("Common between victor and molly:")
+print(victor.intersection(molly))
+
+from wordcloud import WordCloud, STOPWORDS
+import matplotlib.pyplot as plt
+
+set4 = jenny.intersection(victor.intersection(molly))
+fin = ', '.join(set4)
+
+wordcloud = WordCloud(width=800, height=800,
+                      background_color='white',
+                      stopwords=set(STOPWORDS),
+                      min_font_size=10,
+                      color_func=random_color_func).generate(fin)
+
+plt.figure(figsize=(20, 10), facecolor=None)
+plt.imshow(wordcloud)
+plt.axis("off")
+plt.tight_layout(pad=0)
+plt.show()
