@@ -119,6 +119,13 @@ def get_sentiment(read_tweets_list):
     df.to_csv(r'molly_positive.csv', index=None, header=True)
 
 
+def random_color_func(word=None, font_size=None, position=None,  orientation=None, font_path=None, random_state=None):
+    h = int(360.0 * 21.0 / 255.0)
+    s = int(100.0 * 255.0 / 255.0)
+    l = int(100.0 * float(random_state.randint(60, 120)) / 255.0)
+    return "hsl({}, {}%, {}%)".format(h, s, l)
+
+
 def generate_wordcloud():
     f = open("molly_tweets.txt", "r")
     comment_words = ' '
@@ -137,12 +144,13 @@ def generate_wordcloud():
         for words in word_tokens:
             comment_words = comment_words + words + ' '
 
-    wordcloud = WordCloud(width=800, height=800,
+    wordcloud = WordCloud(width=1600, height=800,
                           background_color='white',
                           stopwords=stopwords,
-                          min_font_size=10).generate(comment_words)
+                          min_font_size=10,
+                          color_func=random_color_func).generate(comment_words)
 
-    plt.figure(figsize=(8, 8), facecolor=None)
+    plt.figure(figsize=(20,10), facecolor=None)
     plt.imshow(wordcloud)
     plt.axis("off")
     plt.tight_layout(pad=0)
@@ -152,8 +160,8 @@ def generate_wordcloud():
 
 def main():
     # get_tweets()
-    read_tweets_list = read_tweets()
-    get_sentiment(read_tweets_list)
+    # read_tweets_list = read_tweets()
+    # get_sentiment(read_tweets_list)
     generate_wordcloud()
 
 
