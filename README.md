@@ -22,9 +22,12 @@ On running the hashtag script, you will get:
 2. Intersection of all three users' hashtags
 
 ## Generation
-1. Please add your API keys, marked by XXX by editing the scripts.
-2. Please go over requirements.txt for all dependencies and ensure they
-   are installed
+1. Please add your Twitter and Microsoft Azure API keys, marked by XXX
+   by editing the scripts.
+2. When entering the azure url, please ensure that it is the endpoint
+   for sentiment analysis
+3. Please go over requirements.txt for all dependencies and ensure they
+  are installed
 
 ###### 1.  analyse_jenny_tweets.py
     

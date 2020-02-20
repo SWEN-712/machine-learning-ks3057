@@ -14,7 +14,7 @@ access_token = "XXX"  # twitter app’s Access token
 access_token_secret = "XXX"  # twitter app’s access token secret
 subscription_key = "XXX"
 endpoint = "XXX"
-sentiment_url = endpoint + "XXX"
+sentiment_url = endpoint
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
