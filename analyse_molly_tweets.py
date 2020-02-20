@@ -12,8 +12,8 @@ consumer_key = "vda0bvGAXzcctfC03dQ5NioUD"  # twitter app’s API Key
 consumer_secret = "xUffA1Jwa8Qj7Y9zoMGx6gq0ZDxJl3O8rBnUmu3H1L2B4X9Wyr"  # twitter app’s API secret Key
 access_token = "705612433101037569-go3bNSZCyEg84Q1DhPsUgYw4ZHNPUMY"  # twitter app’s Access token
 access_token_secret = "9UabKEkrGqPkzZh6iURtxQuTGlzjh5CxnyOfH0VxGLziu"  # twitter app’s access token secret
-subscription_key = "c29c2530d7b14c1398498b8842d1c920"
-endpoint = "https://eastus.api.cognitive.microsoft.com/"
+subscription_key = "d83fd1e2f07843f5b126bc73220e0a31"
+endpoint = "https://swen712-ta.cognitiveservices.azure.com/"
 sentiment_url = endpoint + "/text/analytics/v2.1/sentiment"
 
 auth = OAuthHandler(consumer_key, consumer_secret)
@@ -36,7 +36,7 @@ def get_tweets():
     ids = set()
 
     count = 0
-    for status in Cursor(auth_api.user_timeline, id='jennylayfluffy').items():
+    for status in Cursor(auth_api.user_timeline, id='MollyBOfficial').items():
         count += 1
         if status.entities is not None and "hashtags" in status.entities:
             for entity in status.entities["hashtags"]:
@@ -48,26 +48,11 @@ def get_tweets():
                         accbl_twts.append(txt)
                         ids.add(status.id)
 
-    count = 0
-    for status in Cursor(auth_api.user_timeline, id='MollyBOfficial').items():
-        count += 1
-        if hasattr(status, "entities"):
-            entities = status.entities
-            if "hashtags" in entities:
-                for ent in entities["hashtags"]:
-                    if ent is not None:
-                        if "text" in ent:
-                            hashtag = ent["text"]
-                            if hashtag is not None:
-                                if hashtag in my_set:
-                                    if status.id not in ids:
-                                        txt = re.sub(r'http\S+', '', status.text)
-                                        accbl_twts.append(txt)
-                                        ids.add(status.id)
-
-        with open("molly_tweets.txt", "w") as f:
-            for item in accbl_twts:
-                f.write("%s\n" % item)
+    with open("molly_tweets.txt", "w") as f:
+        for item in accbl_twts:
+            f.write("%s\n" % item)
+    print("Total tweets analysed:", count)
+    print()
 
 
 def read_tweets():
@@ -110,7 +95,7 @@ def get_sentiment(read_tweets_list):
             }
 
     df = pd.DataFrame(dict)
-    df.to_csv(r'molly_negative.csv', index = None, header=True)
+    df.to_csv(r'molly_negative.csv', index=None, header=True)
 
     scores = []
     tweets = []
@@ -155,7 +140,7 @@ def generate_wordcloud():
                           stopwords=stopwords,
                           min_font_size=10).generate(comment_words)
 
-    plt.figure(figsize=(20,10), facecolor=None)
+    plt.figure(figsize=(20, 10), facecolor=None)
     plt.imshow(wordcloud)
     plt.axis("off")
     plt.tight_layout(pad=0)
@@ -165,8 +150,8 @@ def generate_wordcloud():
 
 def main():
     # get_tweets()
-    # read_tweets_list = read_tweets()
-    # get_sentiment(read_tweets_list)
+    read_tweets_list = read_tweets()
+    get_sentiment(read_tweets_list)
     generate_wordcloud()
 
 
