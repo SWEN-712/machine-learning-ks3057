@@ -38,26 +38,26 @@ On running the hashtag script, you will get:
     
     EXAMPLE:
     ```
-    python analyse_jenny_tweets.py
+    python3 analyse_jenny_tweets.py
     ```
 
 ###### 2.  analyse_victor_tweets.py
     
     EXAMPLE:
     ```
-    python analyse_victor_tweets.py
+    python3 analyse_victor_tweets.py
     ```
 
 ###### 3.  analyse_molly_tweets.py
     
     EXAMPLE:
     ```
-    python analyse_molly_tweets.py
+    python3 analyse_molly_tweets.py
     ```
 
 ###### 4.  common_hashtags.py
     
     EXAMPLE:
     ```
-    python common_hashtags.py
+    python3 common_hashtags.py
     ```
