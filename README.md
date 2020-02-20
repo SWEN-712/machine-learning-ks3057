@@ -5,10 +5,10 @@
 ## Overview
 
 The scripts analyses accessibility tweets from three twitter users:
-1. Jenny Lay-Flurrie<br> Chief Accessibility Officer at Microsoft<br>
-   @jennylayfluffy 
+1. Jenny Lay-Flurrie<br> Chief Accessibility Officer at Microsoft<br>
+   @jennylayfluffy 
 2. Victor Tsaran <br> Sr. Technical Program Manager, Material Design,
-   accessibility at Google<br> @vick08
+   accessibility at Google<br> @vick08
 3. Molly Burke <br>Youtuber and Accessibility Activist
    <br>@MollyBOfficial
 
@@ -28,28 +28,28 @@ On running the hashtag script, you will get:
 
 ###### 1.  analyse_jenny_tweets.py
     
-    EXAMPLES:
+    EXAMPLE:
     ```
     python analyse_jenny_tweets.py
     ```
 
 ###### 2.  analyse_victor_tweets.py
     
-    EXAMPLES:
+    EXAMPLE:
     ```
     python analyse_victor_tweets.py
     ```
 
 ###### 3.  analyse_molly_tweets.py
     
-    EXAMPLES:
+    EXAMPLE:
     ```
     python analyse_molly_tweets.py
     ```
 
 ###### 4.  common_hashtags.py
     
-    EXAMPLES:
+    EXAMPLE:
     ```
     python common_hashtags.py
     ```
