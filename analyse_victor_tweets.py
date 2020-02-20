@@ -8,13 +8,13 @@ import re
 import string
 import pandas as pd
 
-consumer_key = "vda0bvGAXzcctfC03dQ5NioUD"  # twitter app’s API Key
-consumer_secret = "xUffA1Jwa8Qj7Y9zoMGx6gq0ZDxJl3O8rBnUmu3H1L2B4X9Wyr"  # twitter app’s API secret Key
-access_token = "705612433101037569-go3bNSZCyEg84Q1DhPsUgYw4ZHNPUMY"  # twitter app’s Access token
-access_token_secret = "9UabKEkrGqPkzZh6iURtxQuTGlzjh5CxnyOfH0VxGLziu"  # twitter app’s access token secret
-subscription_key = "d83fd1e2f07843f5b126bc73220e0a31"
-endpoint = "https://swen712-ta.cognitiveservices.azure.com/"
-sentiment_url = endpoint + "/text/analytics/v2.1/sentiment"
+consumer_key = "XXX"  # twitter app’s API Key
+consumer_secret = "XXX"  # twitter app’s API secret Key
+access_token = "XXX"  # twitter app’s Access token
+access_token_secret = "XXX"  # twitter app’s access token secret
+subscription_key = "XXX"
+endpoint = "XXX"
+sentiment_url = endpoint + "XXX"
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
