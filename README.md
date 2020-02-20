@@ -4,8 +4,13 @@
 
 ## Overview
 
+The need for this project:
+1. To mine Twitter for accessibility related tweets from users involved in the field.
+2. To collect data for accessibility that can be used for research.
+
+
 The scripts analyses accessibility tweets from three twitter users:
-1. Jenny Lay-Flurrie<br> Chief Accessibility Officer at Microsoft<br>
+1. Jenny Lay-Flurrie<br> Chief Accessibility Officer at Microsoft<br>
    @jennylayfluffy 
 2. Victor Tsaran <br> Sr. Technical Program Manager, Material Design,
    accessibility at Google<br> @vick08
